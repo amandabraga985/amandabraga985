@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩🏻‍💻 Amanda Braga
 
-<!--
-**amandabraga985/amandabraga985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Em transição de carreira`**
 
-Here are some ideas to get you started:
+Me chamo Amanda Braga, tenho 33 anos e sou natural de São Paulo. Sou uma profissional da área Adm e Financeira e estou em transição de carreira para área de TI. Sempre gostei muito da área e agora quero me profissionalizar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=amandabraga985&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
