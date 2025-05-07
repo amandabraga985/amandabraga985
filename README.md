@@ -2,7 +2,7 @@
 
 **`Em transição de carreira`**
 
-Me chamo Amanda Braga, tenho 33 anos e sou natural de São Paulo. Sou uma profissional da área Adm e Financeira e estou em transição de carreira para área de TI. Sempre gostei muito da área e agora quero me profissionalizar.
+Me chamo Amanda Braga, tenho 33 anos e sou natural de São Paulo. Sou uma profissional da área Adm e Financeira e estou em transição de carreira para área de TI (análise de dados). Sempre gostei muito da área e agora quero me profissionalizar.
 
 ---
 
