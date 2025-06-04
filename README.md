@@ -1,8 +1,12 @@
 # 👩🏻‍💻 Amanda Braga
 
-**`Em transição de carreira`**
+**`Profissional Financeira aplicando Análise de Dados`**
 
-Me chamo Amanda Braga, tenho 33 anos e sou natural de São Paulo. Sou uma profissional da área Adm e Financeira e estou em transição de carreira para área de TI (análise de dados). Sempre gostei muito da área e agora quero me profissionalizar.
+Me chamo Amanda Braga, sou uma profissional com sólida experiência nas áreas Administrativa e Financeira, e atualmente estou expandindo minha atuação com foco em Análise de Dados.
+
+Sempre tive afinidade com números, organização e tomada de decisões baseadas em dados. Agora, estou agregando conhecimentos da área de Tecnologia, com foco em ferramentas como Power BI, Excel Avançado, DAX e Python, para trazer ainda mais valor às análises e estratégias financeiras.
+
+Neste repositório compartilho meus projetos e aprendizados enquanto evoluo na jornada de unir Finanças + Dados, transformando informações em insights inteligentes.
 
 ---
 
